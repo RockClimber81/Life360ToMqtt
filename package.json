@@ -1,0 +1,24 @@
+{
+  "name": "life360tomqtt",
+  "version": "1.0.0",
+  "description": "Send Life360 information into mqtt message bus",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RockClimber81/Life360ToMqtt.git"
+  },
+  "author": "RockClimber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RockClimber81/Life360ToMqtt/issues"
+  },
+  "homepage": "https://github.com/RockClimber81/Life360ToMqtt#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^5.0.0",
+    "typescript": "^3.2.2"
+  }
+}
